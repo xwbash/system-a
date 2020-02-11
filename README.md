@@ -23,7 +23,7 @@ Engilish Language. </br>
 
 > ***Questions Page*** </br>
 _I will be update this screen for kids_
-![](https://i.hizliresim.com/4pd0Xq.png) </br>
+![](https://i.hizliresim.com/0rVb58.png) </br>
 
 [~] ***I add the haarcascades for cards program is working two programming language c# and python, c# side is for to give visual presentation to childrens and python side is for card scanning part.*** </br>
 
@@ -46,7 +46,7 @@ Turkish Language.</br>
 
 > ***Soru Bölümü*** </br>
 _Bu kısmı güncelliyeceğim ve daha çocuksu yapacağım_
-![](https://i.hizliresim.com/4pd0Xq.png) </br>
+![](https://i.hizliresim.com/0rVb58.png) </br>
 
 [~] ***Program haarcascadesler ekledim bir nevi machinelearning kartların okunması için bu sayede kartlar çok hızlı okunabilir konuma geliyor ayrıca program iki farklı programlama dili kullanmakta c# ve python, c# tarafı çocuklara görsel sunum sunabilmek adına oluşturuldu ama python tarafı kartları okumak için.*** </br>
 
