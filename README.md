@@ -1,13 +1,17 @@
+***If you have an idea that you genuinely think is good, don't let some idiot talk you out of it." -Stan Lee***
+
 ***[i] we lose the competition because of have problems on our presentation and Since there is no sorting by skills by defining the priority i make this program by myself but this competition show me real face of the people and gives me experience.</br>***
 
 ***[i] yarışmayı kaybetme sebeplerimizden birisi sunumda sorunlarla karşılaşmamızdı zaten yarışma öncellikli seçildi yeteneğe bakılmaksızın bu programı genç yaşıma rağmen tek başıma yaptım ama gülüyorum çünkü bu yarışma bana insanların gerçek yüzünü gösterdi ve bana deneyim sağladı. </br>***
 
+![](https://media.giphy.com/media/MEXDb8YfNDVg8N9e6R/giphy.gif)</br>
 [*] if you have questions you can ask on instagram; ***yigitaydn.py*** </br>
 ![](https://i.hizliresim.com/yGyVZk.png) </br>
 ***[$] This is my program i created for competition the program is scanning QR and asking you question about human body or anatomy this program for kids. And our goal is to make children individuals who know their bodies.*** </br>
 
 Engilish Language. </br>
 [~] The program idea is simple this is the program scan the our cards and show the questions about card category, for example if you show the "heart card" it gives you heart questions and when you finish the questions and answer all program send a mail to parents and show them your results. </br>
+
 
 > ***Login Panel to Parents*** </br> 
 ![](https://i.hizliresim.com/JV53mn.png) </br>
