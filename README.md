@@ -2,7 +2,7 @@
 
 ***[i] we lose the competition because of have problems on our presentation and Since there is no sorting by skills by defining the priority i make this program by myself but this competition show me real face of the people and gives me experience.</br>***
 
-***[i] yarışmayı kaybetme sebeplerimizden birisi sunumda sorunlarla karşılaşmamızdı zaten yarışma öncellikli seçildi yeteneğe bakılmaksızın bu programı genç yaşıma rağmen tek başıma yaptım ama gülüyorum çünkü bu yarışma bana insanların gerçek yüzünü gösterdi ve bana deneyim sağladı. </br>***
+***[i] yarışmayı kaybetme sebeplerimizden birisi sunumda sorunlarla karşılaşmamızdı zaten yarışma öncellikli seçildi yeteneğe bakılmaksızın bu programı tek başıma yaptım, bu yarışma bana insanların gerçek yüzünü gösterdi ve bana deneyim sağladı. </br>***
 
 ![](https://media.giphy.com/media/MEXDb8YfNDVg8N9e6R/giphy.gif)</br>
 [*] if you have questions you can ask on instagram; ***yigitaydn.py*** </br>
