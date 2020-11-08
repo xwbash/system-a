@@ -1,7 +1,7 @@
 ***If you have an idea that you genuinely think is good, don't let some idiot talk you out of it." -Stan Lee***
 
-***Hata alıyorsanız buradan indirin; https://www.dosyaupload.com/fsaC*** </br>
-***If you get an error download it here; https://www.dosyaupload.com/fsaC*** </br>
+***Hata alıyorsanız buradan indirin; https://mega.nz/file/61gmHSAa#jcEacK5Xf3s0ZymEQZfSO2Yb_06S-XVEvLy7slhRtd8*** </br>
+***If you get an error download it here; https://mega.nz/file/61gmHSAa#jcEacK5Xf3s0ZymEQZfSO2Yb_06S-XVEvLy7slhRtd8*** </br>
 
 ***[i] we lose the competition because of have problems on our presentation and Since there is no sorting by skills by defining the priority i make this program by myself but this competition show me real face of the people and gives me experience.</br>***
 
